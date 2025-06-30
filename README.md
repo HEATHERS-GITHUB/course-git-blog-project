@@ -1,4 +1,4 @@
-# Version Control with Git
+# Udacity-programming-for-Data-Science-using-Python-Nanodegree
 
 This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
 

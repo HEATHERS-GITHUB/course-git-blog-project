@@ -1,3 +1,6 @@
+This is change number 1 to readme.
+This is change number 2 to readme.
+This is change number 3 to readme.
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 Created by Heather Grey
 

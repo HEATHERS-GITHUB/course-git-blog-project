@@ -1,21 +1,23 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
-
-This is the repo for [Udacity's Version Control with Git course](https://www.udacity.com/course/version-control-with-git--ud123). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
-
-This repo contains the source code of a blog project that will be used throughout the course.
-
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Creator](#creators)
+Created by Heather Grey
 
 ## Instructions
+Follow directions on projuct submission form 
+Files Used
+The required files for running this program are:
 
-* clone the project
-* open the index file in a browser
+washington.csv
+new_york_city.csv
+chicago.csv
+Requirements
+This program was written in Python (version 3.7.1) and relies on the following libraries:
 
-## Creators
+pandas==0.23.4
+numpy==1.15.4
 
+
+
+##  Thank you to the Course Creators
 * Richard Kalehoff
     - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
     - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
